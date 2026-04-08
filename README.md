@@ -1,6 +1,6 @@
 # AI Cybersecurity After Mythos: The Jagged Frontier
 
-Supporting materials for the blog post: [AI Cybersecurity After Mythos: The Jagged Frontier]([link-to-blog-post](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier))
+Supporting materials for the blog post: [AI Cybersecurity After Mythos: The Jagged Frontier](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
 
 **Author:** Stanislav Fort, Founder and Chief Scientist at [AISLE](https://aisle.com)
 
